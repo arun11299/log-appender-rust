@@ -1,0 +1,1 @@
+/Users/amuralid/dev_test/log-appender-rust/log_appender/target/debug/log_appender-a3d7e2f72e0fd2fc: /Users/amuralid/dev_test/log-appender-rust/log_appender/src/lib.rs /Users/amuralid/dev_test/log-appender-rust/log_appender/src/segment.rs
